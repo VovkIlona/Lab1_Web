@@ -1,0 +1,89 @@
+body{
+    max-width: 960px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    letter-spacing: 1px;
+    line-height: 1.5
+}
+.dot{
+	text-decoration: none; 
+    border-bottom: 0.7px dashed #BC8F8F;
+    color: #BC8F8F; 
+}
+.dot1{
+	text-decoration: none; 
+    border-bottom: 0.7px dashed #A52A2A;
+    color: #A52A2A;
+}
+.dot2{
+	text-decoration: none; 
+    border-bottom: 0.7px dashed #000;
+    color: #000
+}
+.leaf{
+	text-align: center;
+	font-size: 28px;
+	text-shadow: 0 0 2px #667
+}
+h1{
+	font-family: Permanent Marker, cursive;
+	text-align: center;
+	font-size: 45px;
+	margin-top: 5%;
+	letter-spacing: 3px
+}
+h2{
+	font-family: Permanent Marker, cursive;
+	text-align: center;
+	font-size: 38px;
+}
+h3{
+	font-family: Permanent Marker, cursive;
+	font-size: 20px;
+	margin: 0;
+    padding: 4px;
+    background: black;
+    color: white;
+}
+p,li{
+	font-size: 18px;
+	margin: 1.5
+}
+pre{
+	font-family: Livvic;
+	font-size: 16px;
+}
+.lines{
+	display: block;
+	text-align: center;
+	border-top: 3px double;
+    border-bottom: 3px double; 
+    font-size: 15px
+}
+.border{
+	display: inline-block; 
+	background: #ff8; 
+	border: 1px dotted #888
+}
+.t{
+	margin: 1.75em 0;
+	border: 1px solid
+}
+.money{
+	min-height: 245px;
+    margin: 0 15px 0 0;
+    padding: 0 190px 1.75em 0;
+    background: white url(img/money.png) bottom right no-repeat
+}
+blockquote{
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px
+}
+.c{
+	font-size: 15px;
+	margin: 1.5;
+	text-align: center
+}
